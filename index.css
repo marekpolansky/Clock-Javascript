@@ -6,7 +6,9 @@ body{
     color: chartreuse;
     font-size: 100px;
     font-size: 13.5vw;
-
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 400;
     text-align: center;
     width: 100%;
 
